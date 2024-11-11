@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"regexp"
 
-	_ "github.com/go-sql-driver/mysql"
+	_ "github.com/DaanA32/mysql"
 
 	"github.com/kndndrj/nvim-dbee/dbee/core"
 	"github.com/kndndrj/nvim-dbee/dbee/core/builders"
